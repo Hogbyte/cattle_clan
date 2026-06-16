@@ -1,0 +1,25 @@
+/*** markerStyle.css ***/
+
+li {padding: 1px}
+
+ul li {font-weight: bold}
+
+ul li a {color: #000}
+
+ul ol li {font-weight: normal}
+
+ul ol li a {color: #00F}
+
+.pagenav {margin-left: 20px}
+
+.pagenav a {margin-right: 20px}
+
+.marker {width: 402px; margin-left: 20px}
+
+.marker .name {text-size: larger; font-weight: bold}
+
+.marker img {border: 1px solid #000}
+
+.marker .info {border: 5px double #000; padding: 5px}
+
+.marker .info .caption {font-weight: bold; text-decoration: underline}

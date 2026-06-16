@@ -1,0 +1,47 @@
+/*** Field pages style sheet ***/
+
+/* GENERAL TAGS */
+
+a
+{
+	color: darkgreen
+}
+
+a:hover
+{
+	color: #FFF;
+	background-color: darkgreen
+}
+
+.pic
+{
+	width: 402px
+}
+
+.pic img
+{
+	display: inline;
+	width: 400px;
+	height: 300px;
+	border: 1px solid #000
+}
+
+h1:first-letter
+{
+	color: darkgreen;
+	font-size: larger;
+	padding: 5px;
+	border: 3px solid darkgreen;
+	background-color: #000
+}
+
+h1
+{
+	font-size: xx-large;
+	border-bottom: 3px solid darkgreen
+}
+
+.info
+{
+	width: 500px
+}

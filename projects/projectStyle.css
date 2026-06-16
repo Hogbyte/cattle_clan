@@ -1,0 +1,62 @@
+/* PROJECTS PAGES STYLE SHEET */
+
+body
+{
+ background-color: #0000FF;
+ color: #FFFFFF
+}
+
+p.indent
+{
+ text-align: left;
+ margin-left: 20 px
+}
+
+p.center
+{
+ text-align: center
+}
+
+h1, h2, h3, h4, h5, h6, h7
+{
+ text-align: center
+}
+
+hr
+{
+ color: #FFFFFF;
+ height: 3px;
+ width: 100%;
+}
+
+table
+{
+ border-style: none;
+}
+
+caption
+{
+ text-align: left
+}
+
+table.nav
+{
+ border-style: solid;
+ border-color: #FFFFFF;
+ border-width: 1px
+}
+
+td.nav
+{
+ padding: 4px;
+ text-align: center;
+ width: 150px;
+ border-style: solid;
+ border-color: #FFFFFF;
+ border-width: 1px
+}
+
+a
+{
+ color: #FFFFFF
+}

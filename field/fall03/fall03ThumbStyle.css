@@ -1,0 +1,45 @@
+/* FALL 2003 THUMBNAIL PAGES STYLE SHEET */
+
+body
+{
+ background-color: #FFFFFF;
+ color: #000000
+}
+
+h1, h2, h3, h4, h5
+{
+ text-align: center
+}
+
+hr
+{
+ color: #000000;
+ height: 3px;
+ width: 100%
+}
+
+table
+{
+ border-style: none
+}
+
+table.thumbs
+{
+ border-style: none;
+ background-color: #000000
+}
+
+td.thumb 
+{
+ padding: 4px
+}
+
+caption
+{
+ text-align: left
+}
+
+a
+{
+ color: #000000
+}

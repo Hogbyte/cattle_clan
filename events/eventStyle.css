@@ -1,0 +1,20 @@
+/*** EVENT PAGES STYLE SHEET ***/
+
+/*** General Tags ***/
+
+body {color: #000; background-color: #FFF}
+
+a {color: #00F}
+
+/*** Classes ***/
+
+.caption {font-weight: bold; text-decoration: underline; font-size: larger}
+
+.picgroup {}
+
+.pic {margin: 5px; text-align: center; float: left; clear: both}
+
+.pic img {border: 1px solid #000; display: block; width: auto; height: auto;
+ margin: 3px}
+
+.endpicgroup {clear: both; width: 100%}

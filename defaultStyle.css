@@ -1,0 +1,43 @@
+/* DEFAULT STYLE SHEET */
+
+body 
+{
+ background-color: #FFFFFF
+}
+
+h1, h2, h3, h4, h5
+{
+ text-align: center
+}
+
+hr
+{
+ color: #000000;
+ height: 3px;
+ width: 100%
+}
+
+p.center 
+{
+ text-align: center
+}
+
+p.right
+{
+ text-align: right
+}
+
+table
+{
+ border-style: none
+}
+
+caption
+{
+ text-align: left
+}
+
+caption.center
+{
+ text-align: center
+}

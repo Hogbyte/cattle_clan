@@ -1,0 +1,82 @@
+/*** The Summer 2004 pages style sheet ***/
+
+/* GENERAL TAGS */
+
+body
+{
+	color: #000;
+	background-color: #FFF
+}
+
+a
+{
+	color: darkgreen
+}
+
+a:hover
+{
+	color: #FFF;
+	background-color: darkgreen
+}
+
+.pic
+{
+	width: 402px
+}
+
+.pic img
+{
+	display: inline;
+	width: 400px;
+	height: 300px;
+	border: 1px solid #000
+}
+
+h1:first-letter
+{
+	color: darkgreen;
+	font-size: larger;
+	padding: 5px;
+	border: 3px solid darkgreen;
+	background-color: #000
+}
+
+h1
+{
+	border-bottom: 3px solid darkgreen
+}
+
+.info
+{
+	width: 500px
+}
+
+#left
+{
+	float: left;
+	width: auto
+}
+
+#menu
+{
+	border: 3px solid darkgreen
+}
+
+#menu a
+{
+	display: block;
+	text-align: center;
+	padding: 3px
+}
+
+#right
+{
+	float:left;
+	margin-left: 10px
+}
+
+.spacer
+{
+	clear: both;
+	width: 100%
+}
